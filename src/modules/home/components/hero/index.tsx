@@ -10,6 +10,7 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
             rel="noopener"
+            
           >
             Voler
           </Heading>
@@ -23,6 +24,7 @@ const Hero = () => {
         <a
           href="https://github.com/medusajs/nextjs-starter-medusa"
           target="_blank"
+          rel="noopener"
         >
           <Button variant="secondary">
             View on GitHub
